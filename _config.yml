@@ -6,6 +6,7 @@ url: http://blog.olivinelabs.com
 title: Love Letters from Olivine Labs
 subtitle: Scribblings from the Laboratory
 author: Olivine Labs
+author_url: http://www.olivinelabs.com
 simple_search: http://google.com/search
 description: Olivine Labs is a web applications development studio with principles rooted in open-source.
 
@@ -93,7 +94,7 @@ disqus_short_name: olivinelabs
 disqus_show_comment_count: true
 
 # Google Analytics
-google_analytics_tracking_id: 
+google_analytics_tracking_id: UA-23920025-1
 
 # Facebook Like
 facebook_like: true
