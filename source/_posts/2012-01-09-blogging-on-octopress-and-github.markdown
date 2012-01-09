@@ -10,6 +10,8 @@ author: Jack Lawson
 We recently made the switch to move our blog from Wordpress to a Jekyll system
 called [Octopress](http://octopress.org/).
 
+<!--more-->
+
 We wanted more control over the templates, css, and all of the things that
 eventually got into the end html; and being locked-in to a templating system
 like Wordpress isn't something that we were quite comfortable with. Jekyll is
