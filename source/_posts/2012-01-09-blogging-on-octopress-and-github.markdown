@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Blogging on Octopress and Github"
-date: 2012-01-09 11:37
+date: 2012-01-09 12:17
 comments: true
 categories: [meta]
 author: Jack Lawson
