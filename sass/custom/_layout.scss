@@ -20,6 +20,29 @@
 //$sidebar-pad-wide: 20px;
 //$sidebar-width-wide: 300px;
 
-#content {
+html {
   background: #fcfcfc image-url('groovepaper.png');
+}
+
+body {
+  max-width: inherit;
+}
+
+#main {
+  max-width: 1200px;
+  border-bottom: none;
+}
+
+body > footer {
+  border-top: solid 1px #bfbfbf;
+  margin-bottom: 0;
+  @include border-bottom-radius(0);
+}
+
+#content, #main {
+  background: transparent;
+}
+
+.sidebar {
+  background: #eee;
 }

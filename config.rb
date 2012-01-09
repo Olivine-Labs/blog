@@ -2,10 +2,10 @@
 project_type = :stand_alone
 
 # Publishing paths
-http_path = "/OL-Blog/"
-http_images_path = "/OL-Blog/images"
-http_fonts_path = "/OL-Blog/fonts"
-css_dir = "public/OL-Blog/stylesheets"
+http_path = "/"
+http_images_path = "/images"
+http_fonts_path = "/fonts"
+css_dir = "public/stylesheets"
 
 # Local development paths
 sass_dir = "sass"
