@@ -2,7 +2,7 @@
 #      Main Configs       #
 # ----------------------- #
 
-url: http://blog.olivinelabs.com
+url: http://olivinelabs.com/blog
 title: Love Letters from Olivine Labs
 subtitle: Scribblings from the Laboratory
 author: Olivine Labs
@@ -27,8 +27,8 @@ email: projects@olivinelabs.com
 # ----------------------- #
 
 # If publishing to a subdirectory as in http://site.com/project set 'root: /project'
-root: /
-permalink: /blog/:year/:month/:day/:title/
+root: /blog
+permalink: /:year/:month/:day/:title/
 source: source
 destination: public/
 plugins: plugins
