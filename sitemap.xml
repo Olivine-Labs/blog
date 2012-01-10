@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<urlset xmlns='http://www.sitemaps.org/schemas/sitemap/0.9'>
+    <url>
+        <loc>
+            http://Olivine-Labs.github.com/blog/blog/2012/01/09/blogging-on-octopress-and-github/
+        </loc>
+        <lastmod>2012-01-09T14:21:26-08:00</lastmod>
+    </url>
+    <url>
+        <loc>http://Olivine-Labs.github.com/blog/blog/archives/</loc>
+        <lastmod>2012-01-09T14:21:26-08:00</lastmod>
+    </url>
+    <url>
+        <loc>http://Olivine-Labs.github.com/blog/</loc>
+        <lastmod>2012-01-09T14:21:26-08:00</lastmod>
+    </url>
+</urlset>
