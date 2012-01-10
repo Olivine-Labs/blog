@@ -4,7 +4,7 @@
   <title><![CDATA[Love Letters from Olivine Labs]]></title>
   <link href="http://Olivine-Labs.github.com/blog/atom.xml" rel="self"/>
   <link href="http://Olivine-Labs.github.com/blog/"/>
-  <updated>2012-01-10T10:56:17-08:00</updated>
+  <updated>2012-01-10T10:59:26-08:00</updated>
   <id>http://Olivine-Labs.github.com/blog/</id>
   <author>
     <name><![CDATA[Olivine Labs]]></name>
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[Blogging on Octopress and Github]]></title>
-    <link href="http://Olivine-Labs.github.com/blog/blog/2012/01/09/blogging-on-octopress-and-github/"/>
+    <link href="http://Olivine-Labs.github.com/blog/2012/01/09/blogging-on-octopress-and-github/"/>
     <updated>2012-01-09T12:17:00-08:00</updated>
-    <id>http://Olivine-Labs.github.com/blog/blog/2012/01/09/blogging-on-octopress-and-github</id>
+    <id>http://Olivine-Labs.github.com/blog/2012/01/09/blogging-on-octopress-and-github</id>
     <content type="html"><![CDATA[<p>We recently made the switch to move our blog from Wordpress to a Jekyll system
 called <a href="http://octopress.org/">Octopress</a>.</p>
 
