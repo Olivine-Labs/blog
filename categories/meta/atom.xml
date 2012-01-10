@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[Love Letters from Olivine Labs]]></title>
-  <link href="http://Olivine-Labs.github.com/blog/atom.xml" rel="self"/>
+  <title><![CDATA[Category: meta | Love Letters from Olivine Labs]]></title>
+  <link href="http://Olivine-Labs.github.com/blog/categories/meta/atom.xml" rel="self"/>
   <link href="http://Olivine-Labs.github.com/blog/"/>
   <updated>2012-01-10T10:59:37-08:00</updated>
   <id>http://Olivine-Labs.github.com/blog/</id>
@@ -26,7 +26,7 @@ called <a href="http://octopress.org/">Octopress</a>.</p>
 
 <p>We wanted more control over the templates, css, and all of the things that
 eventually got into the end html; and being locked-in to a templating system
-like Wordpress isn&#8217;t something that we were quite comfortable with. Jekyll is
+like Wordpress isn't something that we were quite comfortable with. Jekyll is
 a framework for automating the inclusion of files, at its simplest description;
 Octopress takes it a step further and provides default plugins and excellent
 rake tasks that one can use to quickly set up a blogging platform full of
@@ -34,14 +34,14 @@ customizable goodness.</p>
 
 <p>It was easy to set up, and the documentation is fantastic; the default rake
 tasks and gem bundling makes it a snap to set up on any system (and doubly
-so if you already have ruby set up.) It&#8217;s as simple as cloning the repository,
+so if you already have ruby set up.) It's as simple as cloning the repository,
 installing the gems, and firing off one of a few different rake tasks and you
 are set up with the ability to push to Github Pages, Heroku, rsync, or to
-output your own html for your own hosting. We&#8217;re using Github Pages for now,
-but we&#8217;ll be experimenting with setting up jekyll on our own EC2 servers in the
+output your own html for your own hosting. We're using Github Pages for now,
+but we'll be experimenting with setting up jekyll on our own EC2 servers in the
 near future.</p>
 
-<p>We&#8217;ll also be setting up a new Neflaria-specific blog.  We will link to posts
+<p>We'll also be setting up a new Neflaria-specific blog.  We will link to posts
 we make there from here, but keep Neflaria news on the Neflaria site and more
 generic OL news (such as about our components like
 <a href="http://alchemywebsockets.net">Alchemy Websockets</a>) here.</p>
